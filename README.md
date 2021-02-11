@@ -36,3 +36,11 @@ In week 1 heb ik de bovenstaande opdracht, context en eisen opgesteld. Hierna be
 ![Schets voor prototype](https://i.imgur.com/vA0qMd8.jpeg)
 
 De grootste uitdaging hier wordt denk ik het semantisch schrijven van de HTML, en de animaties die ik nog ga bedenken en er in verwerken.
+
+## Week 2
+
+Ik heb de eerste animatie half werkend gekregen, waarbij ik de bedrijfsnaam inclusief achtergrond laat vergroten. Uiteindelijk wil ik deze animatie blijven gebruiken maar nog wel blijven tweaken.
+
+[Animatie tot nu toe](https://i.gyazo.com/cebf839e384869034e3757cf89b840a3.mp4)
+
+Ik heb nuttige workshops gehad over vormpjes maken- en animeren in CSS, die ik hiervoor ook gebruikt heb.
