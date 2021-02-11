@@ -1,0 +1,52 @@
+* {
+  margin: 0
+}
+
+header {
+  font-family: 'JetBrains Mono';
+  position: absolute;
+  width: 70vw;
+  height: 100vh;
+  background-image: 
+  linear-gradient(to left top, transparent 2em, blue 2em, aquamarine);
+  vertical-align: bottom;
+  animation: maakGroter 4s ease-in-out;
+}
+
+@keyframes maakGroter {
+  0% {
+    transform: scale(.2);
+    transform-origin: top left;
+  } 100% {
+    transform: scale(1);
+    transform-origin: top left;
+  }
+}
+
+header h1 {
+  position: absolute;
+  left: 89%;
+  top: 87%;
+  width: 50%;
+  font-size: 3em;
+  line-height: 0;
+}
+
+header h1 span:first-child {
+  color: white;
+  font-size: 6em;
+}
+
+/* header h1 span:first-child {
+  color: white;
+  background-color: blue;
+  width: 75vw;
+  height: 100vh;
+  display: inline-block;
+  text-align:end;
+  vertical-align: bottom;
+} */
+
+main {
+  display: none;
+}
